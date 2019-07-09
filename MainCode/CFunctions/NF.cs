@@ -24,10 +24,9 @@ namespace NotepadMeme
                 float FD = mem.ReadFloat((IntPtr)SPLR + Offsets.FD);
 
                 float FLA = SPLR + Offsets.FLA;
-                if (mem.ReadFloat((IntPtr)FLA) > 0.0f)
+                if (mem.ReadFloat((IntPtr)FLA) > 0f)
                 {
-                    mem.WriteFloat((IntPtr)FLA, 0.0f);
-                }
+                    mem.WriteFloat((IntPtr)FLA, 0f);
             }
         }
     }
