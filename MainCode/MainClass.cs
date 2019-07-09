@@ -83,19 +83,12 @@ namespace NotepadMeme
             Console.WriteLine("Version: {0}", ver);
             Console.WriteLine("Discord: krasnolud#2814");
             Console.ResetColor(); Console.WriteLine(); Console.WriteLine(); Console.WriteLine("--------------------- COMMANDS ----------------------"); Console.WriteLine();
-            Console.WriteLine("other - Other options");
-            Console.WriteLine("1 - Bunnyhop (CurrentStatus: {0})", GetOptionStatusLabel(RabbitHop.GetRabbitStatus()));
-            Console.WriteLine("2 - Glow Wallhack (CurrentStatus: {0})", GetOptionStatusLabel(G.GetGlowStatus()));
-            Console.WriteLine("3 - Triggerbot (CurrentStatus: {0})", GetOptionStatusLabel(T.GetTStatus()));
-            Console.WriteLine("4 - No Flash (CurrentStatus: {0}", GetOptionStatusLabel(NF.GetNfStatus()));
-            Console.WriteLine("5 - Aimbot (CurrentStatus: TODO)");
-            Console.WriteLine("6 - ESP (CurrentStatus: TODO)");
             #region commands
             Console.WriteLine("other - Other options");
             Console.WriteLine("1 - Bunnyhop (CurrentStatus: {0})", GetOptionStatusLabel(RabbitHop.GetRabbitStatus()));
             Console.WriteLine("2 - Glow Wallhack (CurrentStatus: {0})", GetOptionStatusLabel(G.GetGlowStatus()));
             Console.WriteLine("3 - Triggerbot (CurrentStatus: {0})", GetOptionStatusLabel(T.GetTStatus()));
-            Console.WriteLine("4 - No Flash (CurrentStatus: Coding)");
+            Console.WriteLine("4 - No Flash (CurrentStatus: {0}", GetOptionStatusLabel(NF.GetNfStatus()));
             Console.WriteLine("5 - Aimbot (CurrentStatus: TODO)");
             Console.WriteLine("6 - ESP (CurrentStatus: TODO)");
             #endregion commmands
@@ -158,11 +151,11 @@ namespace NotepadMeme
                     case 4:
                         if (!NF.GetNfStatus())
                         {
-                            NFMenu(true);
+                            NF.NFMenu(true);
                         }
                         else
                         {
-                            NFMenu(false);
+                            NF.NFMenu(false);
                         }
                         break;
                     default:

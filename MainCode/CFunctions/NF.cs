@@ -34,7 +34,7 @@ namespace NotepadMeme
             {
                 nfthread.Abort();
             }
-
+            MainClass.MainMenu();
         }
 
         private static void NFMain()

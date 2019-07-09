@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSMeme.exe" size="20456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSMeme.exe" size="22504">
       <assemblyIdentity name="CSMeme" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Vyy5aorpbH9Mn11/Qn24vr3lJcxpkI+GczfwkS8Hmto=</dsig:DigestValue>
+        <dsig:DigestValue>UnpQXoKgvhk5O/pQ0eP9wu4LNJv7OfZfEVZgNlPASYI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -65,13 +65,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CSMeme.exe.config" size="635">
+  <file name="CSMeme.exe.config" size="779">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tC7P6uWB/rfVcYhcc7CPxUlM8szy6nYMuAlXymwrcUQ=</dsig:DigestValue>
+      <dsig:DigestValue>ypKGqoiARR7An/qCSjsMlWMz/o46Vi1CplcplqUd/lc=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
