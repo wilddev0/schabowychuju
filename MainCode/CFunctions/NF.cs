@@ -19,7 +19,7 @@ namespace NotepadMeme
         {
             while (true)
             {
-                int SPLR = BaseAddress + Offsets.LP;
+                int SPLR = mem.ReadInt32((IntPtr)BaseAddress + Offsets.LP);
 
                 float FD = mem.ReadFloat((IntPtr)SPLR + Offsets.FD);
 
