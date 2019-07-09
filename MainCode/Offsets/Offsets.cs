@@ -23,7 +23,7 @@ namespace NotepadMeme
         public static int FA = 0x189B0E0 + 0x189B0E0;
         public static int TN = 0xF4;
         public static int FD = 0xA3F4;
-        public static float FLA = 0xA3F0;
+        public static float FLA = 0xA3F0; //chuj kurwa i chuj
 
     }
 }
