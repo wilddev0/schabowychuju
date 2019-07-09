@@ -1,0 +1,20 @@
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Debug\CSMeme.exe.config
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Debug\CSMeme.exe.manifest
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Debug\CSMeme.application
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Debug\CSMeme.exe
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Debug\CSMeme.pdb
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Debug\VAMemory.dll
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\Auth\MainWindow.g.cs
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\Auth\App.g.cs
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme_MarkupCompile.cache
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme_MarkupCompile.lref
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\Auth\MainWindow.baml
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.g.resources
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.Properties.Resources.resources
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\Krasnolud External.csproj.GenerateResource.cache
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\Krasnolud External.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.exe.manifest
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.application
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\Krasnolud External.csproj.CopyComplete
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.exe
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.pdb

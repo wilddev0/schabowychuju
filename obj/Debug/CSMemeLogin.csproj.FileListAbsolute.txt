@@ -1,0 +1,17 @@
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\bin\Debug\CSMemeLogin.exe.config
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\bin\Debug\CSMemeLogin.exe
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\bin\Debug\CSMemeLogin.pdb
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin_MarkupCompile.cache
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin_MarkupCompile.lref
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.g.resources
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.Properties.Resources.resources
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.csproj.GenerateResource.cache
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.exe
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.pdb
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\bin\Debug\VAMemory.dll
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.csprojAssemblyReference.cache
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\Auth\MainWindow.g.cs
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\Auth\App.g.cs
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\Auth\MainWindow.baml
+C:\Users\Fabian\source\repos\CSMemeLogin\CSMemeLogin\obj\Debug\CSMemeLogin.csproj.CopyComplete

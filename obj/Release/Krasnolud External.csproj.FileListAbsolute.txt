@@ -1,0 +1,21 @@
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Release\CSMeme.exe.config
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Release\CSMeme.exe.manifest
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Release\CSMeme.application
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Release\CSMeme.exe
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Release\CSMeme.pdb
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\bin\Release\VAMemory.dll
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\Auth\MainWindow.g.cs
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\Auth\App.g.cs
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme_MarkupCompile.cache
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme_MarkupCompile.lref
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\Auth\MainWindow.baml
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme.g.resources
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme.Properties.Resources.resources
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\Krasnolud External.csproj.GenerateResource.cache
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\Krasnolud External.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme.exe.manifest
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme.application
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\Krasnolud External.csproj.CopyComplete
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme.exe
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\CSMeme.pdb
+C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Release\Krasnolud External.csprojAssemblyReference.cache
