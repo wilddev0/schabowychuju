@@ -19,6 +19,10 @@ namespace NotepadMeme
         public const string b = "s";
         public const string c = "g";
         public const string injProc = a + b + c + "o";
+        public const string d = "cli";
+        public const string e = "ent";
+        public const string f = "_pano";
+        public const string g = "rama.dll";
         static Process[] pname = Process.GetProcessesByName(injProc);
         private const string status = "PROBABLY UNDETECTED";
 
@@ -79,6 +83,13 @@ namespace NotepadMeme
             Console.WriteLine("Version: {0}", ver);
             Console.WriteLine("Discord: krasnolud#2814");
             Console.ResetColor(); Console.WriteLine(); Console.WriteLine(); Console.WriteLine("--------------------- COMMANDS ----------------------"); Console.WriteLine();
+            Console.WriteLine("other - Other options");
+            Console.WriteLine("1 - Bunnyhop (CurrentStatus: {0})", GetOptionStatusLabel(RabbitHop.GetRabbitStatus()));
+            Console.WriteLine("2 - Glow Wallhack (CurrentStatus: {0})", GetOptionStatusLabel(G.GetGlowStatus()));
+            Console.WriteLine("3 - Triggerbot (CurrentStatus: {0})", GetOptionStatusLabel(T.GetTStatus()));
+            Console.WriteLine("4 - No Flash (CurrentStatus: {0}", GetOptionStatusLabel(GetNfStatus()));
+            Console.WriteLine("5 - Aimbot (CurrentStatus: TODO)");
+            Console.WriteLine("6 - ESP (CurrentStatus: TODO)");
             #region commands
             Console.WriteLine("other - Other options");
             Console.WriteLine("1 - Bunnyhop (CurrentStatus: {0})", GetOptionStatusLabel(RabbitHop.GetRabbitStatus()));
@@ -145,7 +156,14 @@ namespace NotepadMeme
                         }
                         break;
                     case 4:
-                        NF.NFMain();
+                        if (!NF.GetNfStatus())
+                        {
+                            NFMenu(true);
+                        }
+                        else
+                        {
+                            NFMenu(false);
+                        }
                         break;
                     default:
                         Console.Clear(); Console.ForegroundColor = ConsoleColor.Red; Console.WriteLine("You typed wrong command!\nPress any key to return to the main menu."); Console.ReadKey(); MainMenu(); break;
@@ -167,7 +185,7 @@ namespace NotepadMeme
             Process[] p = Process.GetProcessesByName(injProc);
             foreach (ProcessModule m in p[0].Modules)
             {
-                if (m.ModuleName == "client_panorama.dll")
+                if (m.ModuleName == d + e + f + g)
                 {
                     return (int)m.BaseAddress;
                 }
