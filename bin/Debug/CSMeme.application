@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="CSMeme.exe.manifest" size="4098">
+    <dependentAssembly dependencyType="install" codebase="CSMeme.exe.manifest" size="4765">
       <assemblyIdentity name="CSMeme.exe" version="0.4.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yaVl96dd2XiyIrRWKhyv2VkhnDYpBzbMma+bFnChkXs=</dsig:DigestValue>
+        <dsig:DigestValue>cxe2v2QItN8v5C7zkyTKOrczrXQznR0qafpgbXn1q9I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

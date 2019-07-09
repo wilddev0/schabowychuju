@@ -25,18 +25,16 @@ C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme_MarkupCompile.c
 C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme_MarkupCompile.lref
 C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme.exe
 C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme.pdb
-D:\schabowychuju\obj\Debug\Auth\MainWindow.g.cs
-D:\schabowychuju\obj\Debug\Auth\App.g.cs
-D:\schabowychuju\obj\Debug\CSMeme_MarkupCompile.cache
-D:\schabowychuju\obj\Debug\CSMeme_MarkupCompile.lref
-D:\schabowychuju\obj\Debug\CSMeme.exe
-D:\schabowychuju\obj\Debug\CSMeme.pdb
 D:\schabowychuju\bin\Debug\CSMeme.exe.config
 D:\schabowychuju\bin\Debug\CSMeme.exe.manifest
 D:\schabowychuju\bin\Debug\CSMeme.application
 D:\schabowychuju\bin\Debug\CSMeme.exe
 D:\schabowychuju\bin\Debug\CSMeme.pdb
 D:\schabowychuju\bin\Debug\VAMemory.dll
+D:\schabowychuju\obj\Debug\Auth\MainWindow.g.cs
+D:\schabowychuju\obj\Debug\Auth\App.g.cs
+D:\schabowychuju\obj\Debug\CSMeme_MarkupCompile.cache
+D:\schabowychuju\obj\Debug\CSMeme_MarkupCompile.lref
 D:\schabowychuju\obj\Debug\Auth\MainWindow.baml
 D:\schabowychuju\obj\Debug\CSMeme.g.resources
 D:\schabowychuju\obj\Debug\CSMeme.Properties.Resources.resources
@@ -45,3 +43,8 @@ D:\schabowychuju\obj\Debug\Krasnolud External.csproj.CoreCompileInputs.cache
 D:\schabowychuju\obj\Debug\CSMeme.exe.manifest
 D:\schabowychuju\obj\Debug\CSMeme.application
 D:\schabowychuju\obj\Debug\Krasnolud External.csproj.CopyComplete
+D:\schabowychuju\obj\Debug\CSMeme.exe
+D:\schabowychuju\obj\Debug\CSMeme.pdb
+D:\schabowychuju\bin\Debug\SharpDX.dll
+D:\schabowychuju\bin\Debug\SharpDX.pdb
+D:\schabowychuju\obj\Debug\Krasnolud External.csprojAssemblyReference.cache

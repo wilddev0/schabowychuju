@@ -39,7 +39,7 @@ namespace NotepadMeme
 
         private static void NFMain()
         {
-            while (true && isNF)
+            while (true)
             {
                 int SPLR = mem.ReadInt32((IntPtr)BaseAddress + Offsets.LP);
 
@@ -48,7 +48,6 @@ namespace NotepadMeme
                 if (mem.ReadFloat((IntPtr)FLA) > 0f)
                 {
                     mem.WriteFloat((IntPtr)FLA, 0f);
-                    Thread.Sleep(100);
                 }
             }
         }

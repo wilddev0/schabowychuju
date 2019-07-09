@@ -49,7 +49,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UnpQXoKgvhk5O/pQ0eP9wu4LNJv7OfZfEVZgNlPASYI=</dsig:DigestValue>
+        <dsig:DigestValue>ERFpAdeOfiXCY+HAxP1Ys3nzKK6O2SnRrUxB47K+UP4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpDX.dll" size="274944">
+      <assemblyIdentity name="SharpDX" version="4.2.0.0" publicKeyToken="B4DCF0F35E5521F1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oK8lXqSwmozbmVuMb9EHXkbwmOI8I1HJdObe2bi2IM8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -65,13 +77,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CSMeme.exe.config" size="779">
+  <file name="CSMeme.exe.config" size="754">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ypKGqoiARR7An/qCSjsMlWMz/o46Vi1CplcplqUd/lc=</dsig:DigestValue>
+      <dsig:DigestValue>DFWT1zn/1dLm45W3W+WqNGWIsOX08hVGd5ZPg8Rv+bE=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
