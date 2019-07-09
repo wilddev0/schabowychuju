@@ -27,6 +27,7 @@ namespace NotepadMeme
                 if (mem.ReadFloat((IntPtr)FLA) > 0f)
                 {
                     mem.WriteFloat((IntPtr)FLA, 0f);
+                }
             }
         }
     }

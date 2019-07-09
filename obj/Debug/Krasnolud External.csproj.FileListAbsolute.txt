@@ -18,3 +18,10 @@ C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSM
 C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\Krasnolud External.csproj.CopyComplete
 C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.exe
 C:\Users\Fabian\source\repos\Krasnolud External\Krasnolud External\obj\Debug\CSMeme.pdb
+C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\Krasnolud External.csprojAssemblyReference.cache
+C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\Auth\MainWindow.g.cs
+C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\Auth\App.g.cs
+C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme_MarkupCompile.cache
+C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme_MarkupCompile.lref
+C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme.exe
+C:\Users\Mikolaj\Documents\GitHub\schabowychuju\obj\Debug\CSMeme.pdb
