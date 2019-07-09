@@ -87,7 +87,7 @@ namespace NotepadMeme
             Console.WriteLine("1 - Bunnyhop (CurrentStatus: {0})", GetOptionStatusLabel(RabbitHop.GetRabbitStatus()));
             Console.WriteLine("2 - Glow Wallhack (CurrentStatus: {0})", GetOptionStatusLabel(G.GetGlowStatus()));
             Console.WriteLine("3 - Triggerbot (CurrentStatus: {0})", GetOptionStatusLabel(T.GetTStatus()));
-            Console.WriteLine("4 - No Flash (CurrentStatus: {0}", GetOptionStatusLabel(GetNfStatus()));
+            Console.WriteLine("4 - No Flash (CurrentStatus: {0}", GetOptionStatusLabel(N.GetNfStatus()));
             Console.WriteLine("5 - Aimbot (CurrentStatus: TODO)");
             Console.WriteLine("6 - ESP (CurrentStatus: TODO)");
             #region commands
